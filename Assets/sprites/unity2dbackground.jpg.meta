@@ -152,7 +152,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      unity2dbackground_0: -4094302782554665733
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
